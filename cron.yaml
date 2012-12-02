@@ -1,0 +1,6 @@
+cron:
+  - description: results out
+    url: /
+    schedule: every 30 minutes
+    timezone: Asia/Colombo
+
